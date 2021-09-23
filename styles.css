@@ -18,15 +18,29 @@ b {
     color: rgb(83, 54, 26);
     margin-left: 200px;
     margin-top: -150px;
-    
 }
+
 body {
     margin-top: 15px;
     margin-left: 20px;
     font-size: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
     
-    
+ width: 900px;
+ height: 800;
+ margin-left: 50px;
+ margin-top: 10px;
+
 }
- 
+.oferta {
+margin-left: 905px;
+margin-top: -472px;
+}
+.navbar {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-stretch: ultra-expanded;
+    font-style: oblique;
+    color: salmon;
+}
+
 
